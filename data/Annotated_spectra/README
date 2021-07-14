@@ -1,0 +1,33 @@
+Ti mando in allegato le peaklist di CARA con gli assegnamenti dei vari spettri, come mi ha detto Marco.
+Per ogni spettro ti mando due formati (.peaks e .txt) vedi te quale ti sembra più leggibile per il vostro scopo (forse .txt).
+Nomi delle peaklist:
+Spettri cartella CAII_furo: 1) spettro #3 -> CAIIZn_000_furo_03_170317
+                           2) spettro #11 -> CAIIZn_100_furo_11_170317
+
+                CAII_oxa: 1) spettro #4 -> CAII_Zn_000_oxalate_04_221116
+                          2) spettro #31 -> CAII_Zn_15mM_oxalate_31_221116
+
+               CAII_pTS:  1) spettro #4 -> CAII_Zn_000_pTS_04_291216
+                          2) spettro #15 -> CAII_Zn_100_pTS_15_291216
+
+               CAII_pTsulfonic: 1) spettro #3 -> CAII_Zn_000_pTulpho_03_220317
+                                2) spettro #18 -> CAII_Zn_100f_pTulpho_18_220317
+
+               CAII_sulpiride: 1) spettro #3 -> CAIIZn_0.00_sulpiride_03_040417
+                               2) spettro #19 -> CAIIZn_5mM_sulpiride_19_040417
+
+
+
+
+
+MMP12_AHA_ref ---> MMP12Cat_NNGH_T1_ref_300707
+MMP12_AHA_ref ---> MMP12Cat_Dive_T1_ref_peaks
+
+CAIIZn_000_furo_03_170317 ---> CAIIZn_100_furo_11_170317
+CAIIZn_0.00_sulpiride_03_040417 -->CAIIZn_5mM_sulpiride_19_040417
+CAII_Zn_000_pTulpho_03_220317 --> CAII_Zn_100f_pTulpho_18_220317
+CAII_Zn_000_pTS_04_291216       --> CAII_Zn_100_pTS_15_291216
+CAII_Zn_000_oxalate_04_221116  --> CAII_Zn_15mM_oxalate_31_221116
+
+CAIIDM_Zn_free_T1_ref_20_081020.txt --> CAII_DM_Zn_SCN_T1_ref_051020.txt
+CAII_DM_Co_free_onlyAssigned.txt -----> CAIIDM_Co_SCN_onlyAssigned.txt
